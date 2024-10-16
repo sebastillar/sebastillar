@@ -2,16 +2,17 @@
 
 **Welcome to my Github profile.
 
-- IT professional with 8 years of experience in insurance, gambling, and e-commerce industries. Skilled in backend development, API design, workflow configuration, and project leadership.
+- IT professional with experience in gambling, insurance and e-commerce industries. Skilled in backend development, API design, workflow configuration, and project leadership. I'm looking forward to collaborate in product-based companies.
 
 **Skills:
 - Technical Skills: Testing and Debugging, API Design and Development, Version Control (Git), Containerization and Orchestration (Docker & Kubernetes), Data Structures and Algorithms, Software Design Patterns
 - Project Experience: Backend Development, Workflow Configuration, CI/CD Pipelines, Cross-Functional Team Collaboration, Mentorship and Training
-- Tools and Technologies: Laravel, Lumen, Nuxt.js, Oracle SQL, Jenkins, Google PubSub, AWS
+- Tools and Technologies: Laravel, Filament, Livewire, Lumen, PHP, MySQL, PostgreSQL, OracleSQL, Jenkins, Google PubSub, AWS
 
 **How to reach me:
 - Send me an email to seba@sebastillar.uy
 
+**Pronouns: He/Him
 
 
 <!--
